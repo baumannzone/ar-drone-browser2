@@ -2,7 +2,7 @@ Getting started
 ======
 Connect to your ar drone 2 via WLAN, then run node.server.js open up localhost:3001 and you're ready to go.
 
-Use `W, A, S, D` to move front, back and sideways. Use your `cursors` to go up/down or turn clockwise/counter clockwise.
+Use `W`, `A`, `S`, `D` to move front, back and sideways. Use your `cursors` (arrows) to go up/down or turn clockwise / counter-clockwise.
 Some animations can be triggered with `1-4`
 `SPACE` for taking of and `esc` for landing.
 
